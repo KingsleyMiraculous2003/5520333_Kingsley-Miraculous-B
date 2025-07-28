@@ -1,6 +1,6 @@
 # 5520333_Kingsley-Miraculous-B
-** #Agile Course Certificate**
-#Agile Course Certificate
-![Certificate](<SDLC Certificate/Agile Certificate.png>)
+
+# Agile Course Certificate
+![SDLC Certificate](<SDLC Certificate/Agile Certificate.png>)
 
 
