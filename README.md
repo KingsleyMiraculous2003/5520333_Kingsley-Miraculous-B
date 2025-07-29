@@ -9,6 +9,6 @@
 
 # Linux Commands
 
-![GIT Certificate](<Linux work/Linux Work.png>)
+![GIT Certificate](<Linux Commands/Linux Work.png>)
 
 
