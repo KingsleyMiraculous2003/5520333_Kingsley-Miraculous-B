@@ -12,7 +12,13 @@
 ![GIT Certificate](<Linux Commands/Linux Work.png>)
 
 
-#Sololearn Introuduction to C language Certificate
+# Sololearn Introduction to C language Certificate
 
 ![GIT Certificate](<Sololearn  C Language Certificate/Introduction To C/Introduction TO C.jpg>)
+
+# Sololearn C Intermediate Certificate
+
+![GIT Certificate](<Sololearn  C Language Certificate/Introduction To C/Introduction TO C.jpg>)
+
+
 
