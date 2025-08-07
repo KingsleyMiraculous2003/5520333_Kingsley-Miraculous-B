@@ -11,7 +11,8 @@
 
 ![GIT Certificate](<Linux Commands/Linux Work.png>)
 
+
 #Sololearn Introuduction to C language Certificate
 
-![GIT Certificate](Sololearn  C Language Certificate/Introduction To C/Introduction TO C.jpg)
+![GIT Certificate](<Sololearn  C Language Certificate/Introduction To C/Introduction TO C.jpg>)
 
