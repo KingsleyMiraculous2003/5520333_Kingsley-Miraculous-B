@@ -18,7 +18,7 @@
 
 # Sololearn C Intermediate Certificate
 
-![GIT Certificate](<Sololearn  C Language Certificate/Introduction To C/Introduction TO C.jpg>)
+![GIT Certificate](<Sololearn  C Language Certificate/C Intermediate/C Intermediate.jpg>)
 
 
 
